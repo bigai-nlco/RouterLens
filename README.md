@@ -13,9 +13,9 @@
 <a href="https://github.com/bigai-nlco/RuleReasoner/blob/main/LICENSE">
 	<img src="https://img.shields.io/badge/License-MIT-green.svg" alt="MIT">
 </a>
-<!-- <a href="https://arxiv.org/abs/2506.08672">
+<a href="https://arxiv.org/abs/2508.19594">
 	<img alt="Documentation" src="https://img.shields.io/badge/Paper-arXiv-red.svg">
-</a> -->
+</a>
 
 
 </div>
@@ -135,14 +135,14 @@ Run the context-faithful expert tuning with:
 RouterLens is licensed under the [MIT License](https://choosealicense.com/licenses). You are free to use, modify, and distribute this project under the terms of the MIT license.
 
 ## 🔖 Citation
-<!-- ```latex
+```latex
 @article{bai2025routerlens,
       title={Understanding and Leveraging the Expert Specialization of Context Faithfulness in Mixture-of-Experts LLMs}, 
       author={Jun Bai and Minghao Tong and Yang Liu and Zixia Jia and Zilong Zheng},
       year={2025},
-      eprint={2508.},
+      eprint={2508.19594},
       archivePrefix={arXiv},
       primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2508}, 
+      url={https://arxiv.org/abs/2508.19594}, 
 }
-``` -->
+```
